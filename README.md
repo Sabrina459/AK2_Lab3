@@ -8,22 +8,22 @@
 --left, -left => Виводить кількість днів
  
 ## Приклади
-/*lab3 --help
+lab3 --help
 ---------------
 
-Don't ask strangers for help*/
+Don't ask strangers for help
 
-/* lab3 -s
+lab3 -s
 ---------------
 
-Fredy is here*/
+Fredy is here
 
-/* lab3 -l 2
+lab3 -l 2
 ------------------
 
-You will die after 2 days*/
+You will die after 2 days
 
-/*lab3 -s
+lab3 -s
 -------------
 
-Booo*/
+Booo
